@@ -92,7 +92,7 @@ The final members table captures the ```join_date``` when a ```customer_id``` jo
 
 ## 🧙‍♂️ Case Study Questions
 <p align="center">
-<img src="https://ugokawaii.com/wp-content/uploads/2022/12/QA.gif" width=80% height=80%>
+<img src="https://ugokawaii.com/wp-content/uploads/2022/12/QA.gif" width=50% height=50%>
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
