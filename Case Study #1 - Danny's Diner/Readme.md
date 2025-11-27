@@ -89,6 +89,10 @@ The final members table captures the ```join_date``` when a ```customer_id``` jo
 
  </details>
 
+## 🧙‍♂️ Entity Relationship Diagram
+<p align="center">
+<img src="/IMG/Recording 2025-11-27 105718.gif" width=50% height=50%>
+
 ## 🧙‍♂️ Case Study Questions
 <p align="center">
 <img src="https://ugokawaii.com/wp-content/uploads/2022/12/QA.gif" width=50% height=50%>
